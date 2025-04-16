@@ -12,7 +12,7 @@ A collection of Jupyter notebooks exploring concepts in econophysics, financial 
 - **6_Options.ipynb**: Option pricing models and derivatives analysis.
 - **MPT_cryptocurrencies_and_traditional_assets.ipynb**: Comparative analysis of Modern Portfolio Theory applied to cryptocurrency and traditional asset markets.
 
-## 🔍 Features
+## Features
 
 - Fetching and processing financial data using yfinance
 - Time series analysis of financial markets
@@ -26,7 +26,7 @@ A collection of Jupyter notebooks exploring concepts in econophysics, financial 
 - Cryptocurrency integration with traditional assets for portfolio diversification
 - Option pricing models
 
-## 📦 Requirements
+## Requirements
 
 - Python 3.x
 - Libraries:
@@ -39,7 +39,7 @@ A collection of Jupyter notebooks exploring concepts in econophysics, financial 
   - arch
   - scipy
 
-## 💻 Usage
+## Usage
 
 Open the notebooks in Jupyter Notebook, JupyterLab, or Google Colab to explore the implementations and analyses.
 
@@ -47,7 +47,7 @@ Open the notebooks in Jupyter Notebook, JupyterLab, or Google Colab to explore t
 jupyter notebook
 ```
 
-## 🔗 Related Concepts
+## Related Concepts
 
 - Modern Portfolio Theory (Markowitz)
 - Efficient Frontier
@@ -57,6 +57,6 @@ jupyter notebook
 - Financial econometrics
 - Risk assessment methods
 
-## 📝 License
+## License
 
 MIT
