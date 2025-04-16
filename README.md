@@ -1,6 +1,6 @@
 # Econophysics Exercises
 
-A collection of Jupyter notebooks exploring concepts in econophysics, financial data analysis, and portfolio optimization techniques. These notebooks are exercises from the course [Econophysics](https://estudis.uib.cat/estudis-de-grau/grau/fisica/GFIS-P/21047/) 2024 at the University de les Illes Balears. The course is taught by Alex Giménez Romero, Dr. Pere Colet Rafecas and Dr. María Rosa López Gonzalo. The research group is part of the [IFISC](https://ifisc.uib-csic.es/) (Institute of Interdisciplinary Physics and Complex Systems).
+A collection of Jupyter notebooks exploring concepts in econophysics, financial data analysis, and portfolio optimization techniques. These notebooks are exercises from the course [Econophysics](https://estudis.uib.cat/estudis-de-grau/grau/fisica/GFIS-P/21047/) 2024 at the UIB (University de les Illes) Balears. The course is taught by Alex Giménez Romero, Dr. Pere Colet Rafecas and Dr. María Rosa López Gonzalo. The research group is part of the [IFISC](https://ifisc.uib-csic.es/) (Institute of Interdisciplinary Physics and Complex Systems).
 
 ## Notebooks
 
@@ -49,7 +49,7 @@ jupyter notebook
 
 ## Related Concepts
 
-- Modern Portfolio Theory (Markowitz)
+- Modern Portfolio Theory
 - Efficient Frontier
 - CAPM (Capital Asset Pricing Model)
 - Time series analysis
