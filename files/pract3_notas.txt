@@ -1,0 +1,2 @@
+    AIC is focused on finding a model that best explains the data, even if it means including more parameters. It is less penalizing for model complexity compared to BIC.
+    BIC includes a stronger penalty for the number of parameters in the model, favoring simpler models especially when the sample size is large. It aims to select models that are both simple and have a high likelihood.

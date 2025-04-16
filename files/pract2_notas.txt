@@ -1,0 +1,29 @@
+Uniform distribution
+	np.random.uniform(a,b, N)
+
+Gaussian distribution
+	np.random.normal(μ,σ, N)
+
+Exponential distribution
+	function, histogram:
+	stats.expon.rvs(size=N)
+	plot:
+	stats.expon.pdf(x)
+
+Beta distribution
+	stats.beta.rvs(a, b, size=N)
+	stats.beta.pdf(x, a, b)
+	(a and b are shape parameters)
+
+Gamma distribution
+	stats.gamma.rvs(a, size=N)
+	stats.gamma.pdf(x, a)
+	(a: shape parameter
+	 b: rate parameter)
+
+Student's t distribution
+	t = stats.t.rvs(df, size=N)
+	(df: number of degrees of freedom)
+
+
+["AAPL", "MSFT", "AMZN", "TSLA", "META", "BTC-USD", "ETH-USD"]

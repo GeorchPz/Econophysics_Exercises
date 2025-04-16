@@ -1,0 +1,8 @@
+Un mercado de valores es "informacionalmente eficiente" cuando la competencia entre los distintos participantes que intervienen en el mismo, conduce a una situación de equilibrio en la que el precio de mercado de un título constituye una buena estimación de su precio teórico o intrínseco
+
+
+Mercado NO eficiente
+
+>>> camino NO aleatorio
+
+>>> Distribucion de precios Leptocurtica
